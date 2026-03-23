@@ -1,9 +1,9 @@
 {
-    'name': 'Auto Generate Lab Receipt',
+    'name': 'Auto Generate Lab Receipts',
     'version': '16.0.1.0',
     'summary': 'Generate PDF receipts for lab reports',
     'category': 'Healthcare',
-    'author': 'Yogita-ODOO',
+    'author': 'Agastya Tech Solutions',
     'depends': ['base', 'web'],
     'data': [
         'views/lab_report_views.xml',
@@ -12,7 +12,7 @@
         'report/lab_report_action.xml',
         'report/report_assets.xml',
     ],
-    'images': ['static/description/lab_report.gif'],
+    'images': ['static/description/agastya_tech_solutions.gif'],
     'installable': True,
     'application': True,
     'license': 'OPL-1',
