@@ -4,6 +4,7 @@
     'summary': 'Generate PDF receipts for lab reports',
     'category': 'Healthcare',
     'author': 'Agastya Tech Solutions',
+    'website': 'https://www.agastyatechsolutions.com/',
     'depends': ['base', 'web'],
     'data': [
         'views/lab_report_views.xml',
